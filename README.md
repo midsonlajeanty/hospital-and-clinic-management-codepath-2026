@@ -1,11 +1,11 @@
-## Sistèm Enfòmatik Jesyon Sante (SIGES)
+## Sistèm Enfòmatik Jesyon Sante (SIJES)
 
 ### 1. Prezantasyon Jeneral Pwojè a
 
 | Eleman | Deskripsyon |
 | :--- | :--- |
-| **Tit Pwojè** | Sistèm Enfòmatik Jesyon Sante (SIGES) |
-| **Objektif Prensipal** | Otomatize ak senplifi pwosesis administratif ak medikal yo nan yon lopital/klinik pou amelyore efikasite ak kalite swen an. |
+| **Tit Pwojè** | Sistèm Enfòmatik Jesyon Sante (SIJES) |
+| **Objektif Prensipal** | Otomatize ak senplifye pwosesis administratif ak medikal yo nan yon lopital/klinik pou amelyore efikasite ak kalite swen an. |
 
 ---
 
@@ -39,7 +39,7 @@
 ---
 
 
-## Istwa Itilizatè pou Sistèm Jesyon Sante (SIGES)
+## Istwa Itilizatè pou Sistèm Jesyon Sante (SIJES)
 
 ### Seksyon I: Premye Vèsyon (MVP - Minimum Viable Product)
 
