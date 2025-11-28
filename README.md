@@ -27,23 +27,21 @@
 
 ### 3. Fonksyonalite Yo Bezwen
 
-Sistèm nan dwe gen modil prensipal sa yo:
-
-| Modil | Fonksyonalite Kle (Minimum) |
-| :--- | :--- |
-| **A. Jesyon Pasyan** | * Kreyasyon/Mizajou Dosye Pasyan (Non, Adrès, Kontak, Asirans). * Istorik Medikal (dyagnostik, alèji, tretman). * Idantifikasyon inik (ID Pasyan). |
-| **B. Randevou (Rendez-vous)** | * Planifikasyon randevou pa doktè, dat, ak sèvis. * Voye notifikasyon (SMS/Imèl) pou konfimasyon ak rapèl. * View kalandriye pou chak doktè. |
-| **C. Jesyon Pèsonèl** | * Anrejistreman pwofil anplwaye (Doktè, Enfimyè, Administratif). * Jesyon aksè ak wòl (sécurité). |
-| **D. Finans ak Fakti** | * Kreyasyon fakti otomatik daprè sèvis yo. * Swivi peman (aksepte diferan metòd peman). * Rapò finansye (revni, depans). |
-| **E. Jesyon Famasi/Envantè** | * Envantè medikaman ak ekipman (kantite ak dat ekspirasyon). * Alèt lè stock ba (Seuil d'alerte). * Swivi itilizasyon pa pasyan. |
-| **F. Laboratwa** | * Antre ak jesyon rezilta tès yo (analiz). * Lyen ak dosye pasyan an. |
+| Seksyon | Modil | Fonksyonalite Kle (Minimum) |
+| :--- | :--- | :--- |
+| **Seksyon I** | **A. Jesyon Pasyan** | * Kreyasyon/Mizajou Dosye Pasyan (Non, Adrès, Kontak, Asirans).<br/> * Istorik Medikal (dyagnostik, alèji, tretman). * Idantifikasyon inik (ID Pasyan). |
+| | **B. Randevou (Rendez-vous)** | * Planifikasyon randevou pa doktè, dat, ak sèvis.<br/>  * Voye notifikasyon (SMS/Imèl) pou konfimasyon ak rapèl.<br/> * View kalandriye pou chak doktè. |
+| **Seksyon II** | **A. Jesyon Pèsonèl** | * Anrejistreman pwofil anplwaye (Doktè, Enfimyè, Administratif).<br/> * Jesyon aksè ak wòl (sécurité). |
+| | **B. Finans ak Fakti** | * Kreyasyon fakti otomatik daprè sèvis yo.<br/> * Swivi peman (aksepte diferan metòd peman).<br/> * Rapò finansye (revni, depans). |
+| | **C. Jesyon Famasi/Envantè** | * Envantè medikaman ak ekipman (kantite ak dat ekspirasyon).<br/> * Alèt lè stock ba (Seuil d'alerte).<br/> * Swivi itilizasyon pa pasyan. |
+| | **D. Laboratwa** | * Antre ak jesyon rezilta tès yo (analiz).<br/> * Lyen ak dosye pasyan an. |
 
 ---
 
 
 ## Istwa Itilizatè pou Sistèm Jesyon Sante (SIGES)
 
-### Section I: Premye Vèsyon (MVP - Minimum Viable Product)
+### Seksyon I: Premye Vèsyon (MVP - Minimum Viable Product)
 
 Seksyon sa a dekri fonksyonalite esansyèl ki nesesè pou lanse aplikasyon an. Li dwe senp, fyab, epi rezoud pwoblèm prensipal itilizatè yo.
 
@@ -63,7 +61,7 @@ Seksyon sa a dekri fonksyonalite esansyèl ki nesesè pou lanse aplikasyon an. L
 | **Antan ke Doktè** | Mwen vle **resevwa yon notifikasyon alèt** yon ti tan anvan pwochen randevou mwen an, pou m ka prepare m pou pasyan kap vini an. |
 | **Antan ke Administratif** | Mwen vle **voye yon rapèl randevou (SMS/Imèl)** bay pasyan yo otomatikman, pou m ka diminye kantite randevou pasyan pa prezante. |
 
-### Section II: Vizyon Alavni ak Devlopman Konplè
+### Seksyon II: Vizyon Alavni ak Devlopman Konplè
 
 Seksyon sa a se plan kwasans pou fè aplikasyon an vin pi konplè e pi rich.
 
