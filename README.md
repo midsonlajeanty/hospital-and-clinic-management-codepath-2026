@@ -43,7 +43,11 @@ Sistèm nan dwe gen modil prensipal sa yo:
 
 ## Istwa Itilizatè pou Sistèm Jesyon Sante (SIGES)
 
-### A. Jesyon Pasyan
+### Section I: Premye Vèsyon (MVP - Minimum Viable Product)
+
+Seksyon sa a dekri fonksyonalite esansyèl ki nesesè pou lanse aplikasyon an. Li dwe senp, fyab, epi rezoud pwoblèm prensipal itilizatè yo.
+
+#### A. Jesyon Pasyan
 
 | Wòl | Istwa Itilizatè |
 | :--- | :--- |
@@ -51,35 +55,39 @@ Sistèm nan dwe gen modil prensipal sa yo:
 | **Antan ke Doktè/Pèsonèl Medikal** | Mwen vle **chèche epi wè tout istwa medikal yon pasyan** sou mobil mwen, pou m ka pran desizyon tretman enfòme san pèdi tan. |
 | **Antan ke Pasyan** | Mwen vle **wè rezilta laboratwa mwen yo ak pwochen randevou mwen yo** sou mobil mwen, pou m ka byen enfòme sou sitiyasyon medikal mwen. |
 
-### B. Randevou (Rendez-vous)
+#### B. Randevou (Rendez-vous)
 
 | Wòl | Istwa Itilizatè |
 | :--- | :--- |
 | **Antan ke Administratif** | Mwen vle **planifye yon randevou rapidman** sou kalandriye a, pou m ka jere disponiblite doktè yo avèk efikasite. |
 | **Antan ke Doktè** | Mwen vle **resevwa yon notifikasyon alèt** yon ti tan anvan pwochen randevou mwen an, pou m ka prepare m pou pasyan kap vini an. |
-| **Antan ke Administratif** | Mwen vle **voye yon rapèl randevou (SMS/Imèl)** bay pasyan yo otomatikman, pou m ka diminye kantite randevou pasyan pa prezante (No-Show). |
+| **Antan ke Administratif** | Mwen vle **voye yon rapèl randevou (SMS/Imèl)** bay pasyan yo otomatikman, pou m ka diminye kantite randevou pasyan pa prezante. |
 
-### C. Jesyon Pèsonèl
+### Section II: Vizyon Alavni ak Devlopman Konplè
+
+Seksyon sa a se plan kwasans pou fè aplikasyon an vin pi konplè e pi rich.
+
+### A. Jesyon Pèsonèl
 
 | Wòl | Istwa Itilizatè (User Story) |
 | :--- | :--- |
 | **Antan ke Administratè Sistèm (Admin)** | Mwen vle **defini wòl ak nivo aksè diferan** (Doktè, Enfimyè, Administratif), pou m ka asire sekirite done yo epi chak moun wè sèlman enfòmasyon yo bezwen. |
 
-### D. Finans ak Fakti
+#### B. Finans ak Fakti
 
 | Wòl | Istwa Itilizatè |
 | :--- | :--- |
 | **Antan ke Administratif/Kontab** | Mwen vle **kreye yon fakti otomatik** ki baze sou sèvis yo bay pasyan an, pou m ka akselere pwosesis peman an. |
 | **Antan ke Administratif/Kontab** | Mwen vle **anrejistre yon peman ki fèt** ak metòd peman an (Lajan Kach, Kat, Chek) dirèkteman sou mobil lan, pou m ka kenbe swivi finans la ajou. |
 
-### E. Jesyon Famasi/Envantè
+#### C. Jesyon Famasi/Envantè
 
 | Wòl | Istwa Itilizatè |
 | :--- | :--- |
 | **Antan ke Famasyen/Responsab Stock** | Mwen vle **sèvi ak kamera mobil lan pou eskane kòd bar medikaman yo** lè yo antre oswa sòti, pou m ka gen yon envantè presi nan tan reyèl. |
 | **Antan ke Famasyen/Responsab Stock** | Mwen vle **resevwa yon alèt (notifikasyon push)** lè kantite yon medikaman desann anba yon sèten limit, pou m ka fè yon kòmande anvan stock la fini. |
 
-### F. Laboratwa
+#### D. Laboratwa
 
 | Wòl | Istwa Itilizatè |
 | :--- | :--- |
