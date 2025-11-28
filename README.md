@@ -33,6 +33,10 @@ Sistèm nan dwe gen modil prensipal sa yo:
 | :--- | :--- |
 | **A. Jesyon Pasyan** | * Kreyasyon/Mizajou Dosye Pasyan (Non, Adrès, Kontak, Asirans). * Istorik Medikal (dyagnostik, alèji, tretman). * Idantifikasyon inik (ID Pasyan). |
 | **B. Randevou (Rendez-vous)** | * Planifikasyon randevou pa doktè, dat, ak sèvis. * Voye notifikasyon (SMS/Imèl) pou konfimasyon ak rapèl. * View kalandriye pou chak doktè. |
+| **C. Jesyon Pèsonèl** | * Anrejistreman pwofil anplwaye (Doktè, Enfimyè, Administratif). * Jesyon aksè ak wòl (sécurité). |
+| **D. Finans ak Fakti** | * Kreyasyon fakti otomatik daprè sèvis yo. * Swivi peman (aksepte diferan metòd peman). * Rapò finansye (revni, depans). |
+| **E. Jesyon Famasi/Envantè** | * Envantè medikaman ak ekipman (kantite ak dat ekspirasyon). * Alèt lè stock ba (Seuil d'alerte). * Swivi itilizasyon pa pasyan. |
+| **F. Laboratwa** | * Antre ak jesyon rezilta tès yo (analiz). * Lyen ak dosye pasyan an. |
 
 ---
 
@@ -55,3 +59,29 @@ Sistèm nan dwe gen modil prensipal sa yo:
 | **Antan ke Doktè** | Mwen vle **resevwa yon notifikasyon alèt** yon ti tan anvan pwochen randevou mwen an, pou m ka prepare m pou pasyan kap vini an. |
 | **Antan ke Administratif** | Mwen vle **voye yon rapèl randevou (SMS/Imèl)** bay pasyan yo otomatikman, pou m ka diminye kantite randevou pasyan pa prezante (No-Show). |
 
+### C. Jesyon Pèsonèl
+
+| Wòl | Istwa Itilizatè (User Story) |
+| :--- | :--- |
+| **Antan ke Administratè Sistèm (Admin)** | Mwen vle **defini wòl ak nivo aksè diferan** (Doktè, Enfimyè, Administratif), pou m ka asire sekirite done yo epi chak moun wè sèlman enfòmasyon yo bezwen. |
+
+### D. Finans ak Fakti
+
+| Wòl | Istwa Itilizatè |
+| :--- | :--- |
+| **Antan ke Administratif/Kontab** | Mwen vle **kreye yon fakti otomatik** ki baze sou sèvis yo bay pasyan an, pou m ka akselere pwosesis peman an. |
+| **Antan ke Administratif/Kontab** | Mwen vle **anrejistre yon peman ki fèt** ak metòd peman an (Lajan Kach, Kat, Chek) dirèkteman sou mobil lan, pou m ka kenbe swivi finans la ajou. |
+
+### E. Jesyon Famasi/Envantè
+
+| Wòl | Istwa Itilizatè |
+| :--- | :--- |
+| **Antan ke Famasyen/Responsab Stock** | Mwen vle **sèvi ak kamera mobil lan pou eskane kòd bar medikaman yo** lè yo antre oswa sòti, pou m ka gen yon envantè presi nan tan reyèl. |
+| **Antan ke Famasyen/Responsab Stock** | Mwen vle **resevwa yon alèt (notifikasyon push)** lè kantite yon medikaman desann anba yon sèten limit, pou m ka fè yon kòmande anvan stock la fini. |
+
+### F. Laboratwa
+
+| Wòl | Istwa Itilizatè |
+| :--- | :--- |
+| **Antan ke Teknisyen Laboratwa** | Mwen vle **antre rezilta analiz yo** dirèkteman sou mobil lan, epi lyen yo ak dosye pasyan an, pou doktè a ka wè yo touswit. |
+| **Antan ke Doktè** | Mwen vle **resevwa yon notifikasyon** lè rezilta tès yon pasyan espesifik disponib, pou m ka kontinye ak dyagnostik la san pèdi tan. |
