@@ -28,7 +28,7 @@
 ### 3. Fonksyonalite Yo Bezwen
 
 | Seksyon | Modil | Fonksyonalite Kle (Minimum) |
-| :--- | :--- | :--- |
+| :----- | :--- | :--- |
 | **Seksyon I** | **A. Jesyon Pasyan** | * Kreyasyon/Mizajou Dosye Pasyan (Non, Adrès, Kontak, Asirans).<br/> * Istorik Medikal (dyagnostik, alèji, tretman). * Idantifikasyon inik (ID Pasyan). |
 | | **B. Randevou (Rendez-vous)** | * Planifikasyon randevou pa doktè, dat, ak sèvis.<br/>  * Voye notifikasyon (SMS/Imèl) pou konfimasyon ak rapèl.<br/> * View kalandriye pou chak doktè. |
 | **Seksyon II** | **A. Jesyon Pèsonèl** | * Anrejistreman pwofil anplwaye (Doktè, Enfimyè, Administratif).<br/> * Jesyon aksè ak wòl (sécurité). |
